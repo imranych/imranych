@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imranych
 - 👀 I’m interested in Frontend
-- 🌱 I’m currently learning HTML, CSS, JS
+- 🌱 I’m currently learning HTML, CSS, JS, React
 
 
 <!---
